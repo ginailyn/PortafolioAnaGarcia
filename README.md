@@ -1,16 +1,6 @@
-
-## "Nombre del proyecto"**.
-
-## Imagen de portada
-
-    
-![adicionando-imagem-preview](https://user-images.githubusercontent.com/8989346/123303159-e0e24a00-d4f3-11eb-9900-92a8b15bc31b.gif)
-    
-</details>
-  
 # Nombre del proyecto
 
-Describe de qué trata el proyecto y qué hace.
+Portafolio de Ana Garcia 
 
 ## 🔨 Funcionalidades del proyecto
 
